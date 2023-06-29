@@ -1,0 +1,12 @@
+package: github.com/coldbrewcloud/coldbrew-cli
+import:
+- package: github.com/stretchr/testify
+  version: d77da356e56a7428ad25149ca77381849a6a5232
+- package: gopkg.in/alecthomas/kingpin.v2
+  version: 8cccfa8eb2e3183254457fb1749b2667fbc364c7
+- package: github.com/d5/cc
+  version: 61e59598c69a49fd4d901b6d5cf946e67d649349
+- package: gopkg.in/yaml.v2
+  version: a5b47d31c556af34a302ce5d659e6fea44d90de0
+- package: github.com/aws/aws-sdk-go
+  version: 1b2abe886743dc2bcc78472bfd30a15dc0a61fb8
